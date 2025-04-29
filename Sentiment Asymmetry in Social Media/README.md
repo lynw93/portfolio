@@ -12,7 +12,7 @@ These findings suggest that social media ecosystems may inadvertently reward neg
 ### **See Links for:**<br>
 [Final Report](https://github.com/mids-w203/lab-2-bayesian-bears-/blob/main/reports/Lab2_Report/Lab2.pdf)<br>
 
-Data Source: Huggingface [tweets](https://huggingface.co/datasets/enryu43/twitter100m_tweets) & [users](https://huggingface.co/datasets/enryu43/twitter100m_users) <br><br>
+Data Source: Huggingface [tweets](https://huggingface.co/datasets/enryu43/twitter100m_tweets) & [users](https://huggingface.co/datasets/enryu43/twitter100m_users) <br>
 
 ### **Skills Involved:**
 - Descriptive Modeling<br>

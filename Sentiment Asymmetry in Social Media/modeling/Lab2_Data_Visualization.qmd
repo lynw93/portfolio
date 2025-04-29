@@ -17,12 +17,6 @@ library(jsonlite)
 library(purrr)
 library(aws.s3)
 library(readr)
-
-Sys.setenv("AWS_ACCESS_KEY_ID" = "AKIAW5WU5F5GEKTSY2UK",
-           "AWS_SECRET_ACCESS_KEY" = "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",
-           "AWS_DEFAULT_REGION" = "us-east-1")
-
-bucket <- "tweetsentimentdata"
 ```
 
 ## Load train dataset

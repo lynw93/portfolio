@@ -19,13 +19,6 @@ install.packages("moments")
 library(aws.s3)
 library(readr)
 
-Sys.setenv("AWS_ACCESS_KEY_ID" = "AKIAW5WU5F5GEKTSY2UK",
-           "AWS_SECRET_ACCESS_KEY" = "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",
-           "AWS_DEFAULT_REGION" = "us-east-1")
-
-bucket <- "tweetsentimentdata"
-file_name <- "Complete_Train_data_filtered.csv"
-
 # Load the CSV file directly into a dataframe
 obj <- get_object(object = file_name, bucket = bucket)
 tweets <- read_csv(rawToChar(obj))

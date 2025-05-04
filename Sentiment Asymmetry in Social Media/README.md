@@ -5,8 +5,8 @@ This is a group project I worked on for the Master of Information and Data Scien
 ### **About the Project:**<br>
 
 This study examines the relationship between tweet sentiment and user engagement using 115k tweets from March 2023. <br>
-Large language models(LLM) were used to classify tweets by [sentiment](https://huggingface.co/cardiffnlp/twitter-roberta-base-sentiment-latest) and [topic](https://huggingface.co/cardiffnlp/tweet-topic-base-multilingual) (politics/other). <br>
-We mainly focused on linear regression models for this project and our results show that negative political content generates significantly higher engagement (approximately 176 more units) compared to neutral sentiment, while positive political content and non-political content show minimal engagement differences across sentiment levels. <br>
+We used Large language models(LLM) to classify tweets by [sentiment](https://huggingface.co/cardiffnlp/twitter-roberta-base-sentiment-latest) and [topic](https://huggingface.co/cardiffnlp/tweet-topic-base-multilingual) (politics/other). <br>
+Our analysis primarily focused on linear regression models. Results indicate that tweets with negative sentiment generate significantly higher engagement than those with neutral sentiment. This effect is especially pronounced for tweets related to political topics, where engagement differences across sentiment levels are even more substantial.<br>
 These findings suggest that social media ecosystems may inadvertently reward negative political content, potentially fueling information pollution and discourse polarization.
 
 ### **See Links for:**<br>

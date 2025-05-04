@@ -1,6 +1,6 @@
 # Exploratory Data Analysis for Home Features that Provide the Most Value for Renovators
 
-This is a group project I worked on for the Master of Information and Data Science (MIDS) program at UC Berkeley.
+This project was completed as part of DATASCI 200 in the Master of Information and Data Science (MIDS) program at UC Berkeley.<br>
 
 ### **Overview** <br>
 My team and I analyzed 79 attributes influencing home sales prices, focusing on maximizing price per square foot for renovators. <br>

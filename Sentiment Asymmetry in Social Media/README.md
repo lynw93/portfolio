@@ -10,7 +10,7 @@ We mainly focused on linear regression models for this project and our results s
 These findings suggest that social media ecosystems may inadvertently reward negative political content, potentially fueling information pollution and discourse polarization.
 
 ### **See Links for:**<br>
-[Final Report](https://github.com/mids-w203/lab-2-bayesian-bears-/blob/main/reports/Lab2_Report/Lab2.pdf)<br>
+[Final Report](https://github.com/lynw93/portfolio/blob/main/Sentiment%20Asymmetry%20in%20Social%20Media/report/Lab2.pdf)<br>
 
 Data Source: Huggingface [tweets](https://huggingface.co/datasets/enryu43/twitter100m_tweets) & [users](https://huggingface.co/datasets/enryu43/twitter100m_users) <br>
 

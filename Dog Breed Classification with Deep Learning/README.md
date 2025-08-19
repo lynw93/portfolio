@@ -10,7 +10,7 @@ We built a deep learning pipeline to classify 120 dog breeds, addressing high in
 
 ### **See Links for:**<br>
 [Final Report](https://github.com/lynw93/portfolio/blob/main/Dog%20Breed%20Classification%20with%20Deep%20Learning/report/Dog%20_Breed_Identification_Report.pdf)<br>
-
+[Presentation](https://github.com/lynw93/portfolio/blob/main/Dog%20Breed%20Classification%20with%20Deep%20Learning/report/Dog%20Breed%20Presentation.pdf)<br>
 Data Source: [Stanford Dog Dataset](http://vision.stanford.edu/aditya86/ImageNetDogs/) <br>
 
 ### **Skills Involved:**
